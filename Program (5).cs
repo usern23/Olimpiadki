@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            StreamReader reader = new StreamReader("input5.txt");
+            StreamReader reader = new StreamReader("input.txt");
             int[] kurs1; int[] kurs2; int[] lucky1; int[] lucky2; int[] money2;
 
             try

@@ -1,4 +1,4 @@
-﻿namespace exchange_money
+﻿namespace Money
 {
     internal class Program
     {

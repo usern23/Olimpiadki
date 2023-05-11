@@ -1,4 +1,4 @@
-﻿namespace TanyaGrotter
+﻿namespace Potions
 {
     internal class Program
     {
